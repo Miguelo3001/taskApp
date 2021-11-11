@@ -9,7 +9,7 @@ import Home from './pages/Home'
 
 //import Nav from './components/nav.component'; 
 //import Example from './components/example';
-//modificado
+//modificado2
 
 function App() {
 
