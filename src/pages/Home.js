@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 function Home() {
+
 	return (
 		<React.Fragment>
 			<section className="hero">
@@ -11,7 +12,7 @@ function Home() {
 						<strong>Hellow World!</strong>
 						</h1>
 						<p>
-							Primaria - Education page 
+							App Tasks
 						</p>
 						<Link to="/AppTable" className="noSelect">
 							<button className="btn-primary noSelect">See Table</button>
